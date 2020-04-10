@@ -12,6 +12,7 @@ seaborn = "*"
 matplotlib = "*"
 scipy = "*"
 scikit-learn = "*"
+keras = "*"
 
 [requires]
 python_version = "3.7"
