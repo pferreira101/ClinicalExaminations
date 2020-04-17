@@ -13,6 +13,8 @@ matplotlib = "*"
 scipy = "*"
 scikit-learn = "*"
 keras = "*"
+stats = "*"
+sklearn = "*"
 tensorflow = "*"
 
 [requires]
