@@ -1,3 +1,3 @@
 # NaturalComputing
-Artificial Neural Networks in Clinical Examinations.
+Preparation and analysis of dataset, training and validation of MLPs, and hyperparameter optimization with Genetic Algorithms.
 
